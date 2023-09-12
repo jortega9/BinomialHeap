@@ -1,0 +1,4 @@
+﻿  BinomialHeap.cpp
+C:\Users\joort\Desktop\3Carrera\MAR1\PracticaMAR\practica2\practica2\BinomialHeap.h(174,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\joort\Desktop\3Carrera\MAR1\PracticaMAR\practica2\practica2\BinomialHeap.h(322,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  practica2.vcxproj -> C:\Users\joort\Desktop\3Carrera\MAR1\PracticaMAR\practica2\x64\Debug\practica2.exe
